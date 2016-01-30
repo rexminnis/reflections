@@ -30,3 +30,15 @@ How would branches help?
 How do the diagrams help you visualize the branch structure?
   
   Gives a picture like view of changes
+
+What is the result of merging two branches together? 
+
+  combined the two branches into one
+
+Why do we represent it in the diagram the way we do?
+
+  this would allow for reachability
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+   The pro's are simplified merges manually merges needs to be review. 
