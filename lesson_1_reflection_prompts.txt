@@ -41,4 +41,8 @@ It may be easier for the system to track a single file change.
 How can you use the commands git log and git diff to view the history of files?
 
 You can you the git log to obtain a summary view of the change log and use git diff
- to actually see the changes. 
+ to actually see the changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Continuing the examples in this lesson  
