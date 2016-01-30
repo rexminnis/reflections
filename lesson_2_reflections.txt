@@ -18,3 +18,15 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical change?
  
    use the git diff --staged command and view pending changes
+
+What are some situations when branches would be helpful in keeping your history organized? 
+
+  For feature and test versions of the code
+
+How would branches help?
+
+    Can simplify the management of different version of code.
+
+How do the diagrams help you visualize the branch structure?
+  
+  Gives a picture like view of changes
