@@ -1,0 +1,16 @@
+What happens when you initialize a repository?
+
+  It created the git meta data .git in the directory
+
+Why do you need to do it?
+
+  So that GIT can start tracking changes to files in the directory
+
+
+How is the staging area different from the working directory and the repository?
+
+  The staging area where untrack changes, the working area where committed changes
+
+What value do you think it offers?
+
+  the ability to track changes 
