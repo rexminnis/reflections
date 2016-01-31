@@ -4,24 +4,24 @@ What happens when you initialize a repository?
 
 Why do you need to do it?
 
-  So that GIT can start tracking changes to files in the directory
+  So that Git can start tracking changes to files in the directory
 
 
 How is the staging area different from the working directory and the repository?
 
-  The staging area where untrack changes, the working area where committed changes
+  The working directory where untrack changes, the staging area where committed changes
 
 What value do you think it offers?
 
-  the ability to track changes 
+  The ability to track changes (history), rollback to previous versio, testing new ideas. 
 
 How can you use the staging area to make sure you have one commit per logical change?
  
-   use the git diff --staged command and view pending changes
+   use the git diff --staged command to view pending changes
 
 What are some situations when branches would be helpful in keeping your history organized? 
 
-  For feature and test versions of the code
+  For feature and test versions of the code.
 
 How would branches help?
 

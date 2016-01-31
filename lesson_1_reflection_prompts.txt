@@ -1,48 +1,39 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    Doing a diff show which lines changed in the file
+    Using git diff showed which lines changed in the file.
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    I could go directory to the line with an issue
+    I could go directly to the line with an issue, give me a bird's eye view of the code base.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    It can be good to have version as automatic version after a saved
+   It can be good to have version as automatic version after a saved, however this can become overwhelming overtime. 
+   With the size of the history growing and tracking down the issue can become difficult. 
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Make it earlier to use.
+    Make it earlier to treat a group of files as a logic group.
 
 How can you use the commands git log and git diff to view the history of files?
 
-    git log show summary of changes to the file. git diff shows a comparsion of two or more files
+    git log show summary of changes to the file(s). While git diff shows a comparsion of two or more files
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Because you have the option of rolling backup.
+    The greatest feature to me is the ability to roll back.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    versioning this file
+    Try it to version this file (reflection)
 
-Why do you think some version control systems, like Git, allow saving multiple
-files in one commit, while others, like Google Docs, treat each file separately?
-
-It may be easier for the system to track a single file change.
-
-
-How can you use the commands git log and git diff to view the history of files?
-
-You can you the git log to obtain a summary view of the change log and use git diff
- to actually see the changes.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-Continuing the examples in this lesson  
+     Continuing the examples in this lesson  
